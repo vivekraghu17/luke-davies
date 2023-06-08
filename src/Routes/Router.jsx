@@ -6,7 +6,7 @@ export default function Router() {
   return (
     <BrowserRouter>
     <Routes>
-        <Route path="/home" element={<LandingPage/>}/>
+        <Route path="/luke-davies" element={<LandingPage/>}/>
     </Routes>
     </BrowserRouter>
   )
