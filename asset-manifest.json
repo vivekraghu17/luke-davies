@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/luke-davies/static/css/main.a7b7113e.css",
+    "main.js": "/luke-davies/static/js/main.c678e67c.js",
+    "static/js/787.2c38d571.chunk.js": "/luke-davies/static/js/787.2c38d571.chunk.js",
+    "static/media/landing-background.jpg": "/luke-davies/static/media/landing-background.c49c39d13954cb611692.jpg",
+    "static/media/company-name.png": "/luke-davies/static/media/company-name.5fb620f04f6e8cac7d70.png",
+    "index.html": "/luke-davies/index.html",
+    "main.a7b7113e.css.map": "/luke-davies/static/css/main.a7b7113e.css.map",
+    "main.c678e67c.js.map": "/luke-davies/static/js/main.c678e67c.js.map",
+    "787.2c38d571.chunk.js.map": "/luke-davies/static/js/787.2c38d571.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a7b7113e.css",
+    "static/js/main.c678e67c.js"
+  ]
+}
