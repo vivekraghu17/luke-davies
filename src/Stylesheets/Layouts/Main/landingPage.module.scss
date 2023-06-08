@@ -1,0 +1,25 @@
+.main-div{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-image: url("../../../Assets/Images/landing-background.jpg");
+    background-size: cover;
+    height: 100vh;
+    justify-content: center;
+    .company-name-image{
+        height: 12%;
+        width: 15%;
+        padding-bottom: 8rem;
+    }
+    .start-button{
+        background-color: #FFAC1C !important;
+        text-transform: none;
+        font-family: "roboto";
+        width: 14.9%;
+        height: 6%;
+        color: black;
+        font-weight: 650;
+        font-size: 18px;
+        margin-left: 3px;
+    }
+}
